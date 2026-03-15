@@ -9,3 +9,4 @@ This Repository contains collection of problems from various dsa sheets
 - [Maximum SubArray](Striver_SDE_Sheet/Arrays/Maximum_Subarray.py)
 - [Ducth National Flag Algorithm](Striver_SDE_Sheet/Arrays/Sort_array_of_1_0_2.py)
 - [Set Matrix Zero](Striver_SDE_Sheet/Arrays/Set_Matrix_Zeros.py)
+- [Next Permutation](Striver_SDE_Sheet/Arrays/next_permutation.py)
