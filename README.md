@@ -12,3 +12,4 @@ This Repository contains collection of problems from various dsa sheets
 - [Next Permutation](Striver_SDE_Sheet/Arrays/next_permutation.py)
 
 - [Rotate Image](Striver_SDE_Sheet/Arrays/rotate_image.py)
+- [Merge Intervals](Striver_SDE_Sheet/Arrays/merge_intervals.py)
