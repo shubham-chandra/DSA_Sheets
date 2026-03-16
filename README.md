@@ -13,3 +13,5 @@ This Repository contains collection of problems from various dsa sheets
 
 - [Rotate Image](Striver_SDE_Sheet/Arrays/rotate_image.py)
 - [Merge Intervals](Striver_SDE_Sheet/Arrays/merge_intervals.py)
+- [Merge Sorted Arrays](Striver_SDE_Sheet/Arrays/merge_sorted_array.py)
+- [Find Duplicate Number](Striver_SDE_Sheet/Arrays/find_duplicate_number.py)
